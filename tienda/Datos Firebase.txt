@@ -1,0 +1,14 @@
+
+<script src="https://www.gstatic.com/firebasejs/4.6.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBFR09UAG6f9cK1bCIpVsT83ZZBbOCDU50",
+    authDomain: "tiendaonline-18320.firebaseapp.com",
+    databaseURL: "https://tiendaonline-18320.firebaseio.com",
+    projectId: "tiendaonline-18320",
+    storageBucket: "tiendaonline-18320.appspot.com",
+    messagingSenderId: "900365476175"
+  };
+  firebase.initializeApp(config);
+</script>
